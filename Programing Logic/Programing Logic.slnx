@@ -11,4 +11,7 @@
   <Folder Name="/04/">
     <Project Path="number is a multiple of another/NumberIsAMultipleOfAnother/NumberIsAMultipleOfAnother.csproj" Id="bb44d2b6-0db7-4aec-8559-a57a61c2a5f6" />
   </Folder>
+  <Folder Name="/05/">
+    <Project Path="order of the numbers/OrderOfTheNumbers/OrderOfTheNumbers.csproj" Id="9cce47be-b295-4271-aef9-087a44bcf0a2" />
+  </Folder>
 </Solution>
