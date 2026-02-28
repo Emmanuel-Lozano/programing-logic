@@ -8,4 +8,7 @@
   <Folder Name="/03/">
     <Project Path="leap year/Leap year/Leap year.csproj" Id="8e235bb3-057a-49cd-acff-744e2d352cd2" />
   </Folder>
+  <Folder Name="/04/">
+    <Project Path="number is a multiple of another/NumberIsAMultipleOfAnother/NumberIsAMultipleOfAnother.csproj" Id="bb44d2b6-0db7-4aec-8559-a57a61c2a5f6" />
+  </Folder>
 </Solution>
