@@ -1,4 +1,5 @@
-﻿Console.Write("Enter the first number: ");
+﻿Console.WriteLine("Enter three different numbers");
+Console.Write("Enter the first number: ");
 var numberString = Console.ReadLine();
 var numberInt = int.Parse(numberString!);
 Console.Write("Enter the second number: ");
