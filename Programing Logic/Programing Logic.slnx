@@ -2,4 +2,7 @@
   <Folder Name="/01/">
     <Project Path="NumberisEvenOrNot/NumberisEvenOrNot.csproj" Id="d8f26cb4-4f7e-4b38-a4dd-056ec6ef5adf" />
   </Folder>
+  <Folder Name="/02/">
+    <Project Path="TheGreatIsNumber/TheGratIsNumber/TheGreatIsNumber.csproj" Id="6d26bc78-67d5-498d-9891-f630f36e1a73" />
+  </Folder>
 </Solution>
