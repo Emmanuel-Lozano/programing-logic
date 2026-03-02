@@ -14,4 +14,7 @@
   <Folder Name="/05/">
     <Project Path="order of the numbers/OrderOfTheNumbers/OrderOfTheNumbers.csproj" Id="9cce47be-b295-4271-aef9-087a44bcf0a2" />
   </Folder>
+  <Folder Name="/06/">
+    <Project Path="SimplePayroll/SimplePayroll.csproj" Id="7b0c867c-32b5-469a-aa7d-67d8651c6986" />
+  </Folder>
 </Solution>
